@@ -79,3 +79,34 @@ You can view the live resume by opening the `index.html` file in any web browser
 # Make modifications as needed
 # Refresh browser to see changes
 
+### Future Improvements
+- Phase 1: Styling & Design
+Add CSS for better visual presentation
+Implement responsive design breakpoints
+Add color scheme and typography
+Include profile photo section
+
+- Phase 2: Interactive Features
+Add print-friendly styles
+Implement dark/light mode toggle
+Add PDF download button
+Include progress bars for skill levels
+
+- Phase 3: Advanced Features
+Add project portfolio with images
+Include contact form
+Add blog section
+Implement language switcher
+
+- Phase 4: Integration
+Connect to GitHub API for live repo stats
+Add visitor counter
+Include testimonials section
+Add certificate verification links
+
+### Author
+Sanika Govardhan Sangvai
+
+### License
+This project is open-source. Feel free to use and modify the code as needed.
+
