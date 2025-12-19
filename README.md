@@ -21,8 +21,8 @@ A clean, responsive online resume built with pure HTML. This single-page resume 
 You can view the live resume by opening the `index.html` file in any web browser.
 
 **Direct Links from Resume:**
-- GitHub: [[https://github.com/Sangvai](https://github.com/Sangvai/Basic-resume-website-)](https://github.com/Sangvai)
-- https://github.com/Sangvai/Basic-resume-website-
+- GitHub: [[https://github.com/Sangvai]](https://github.com/Sangvai)
+
 
 
 ## Features
